@@ -5,10 +5,7 @@
 </center>
 
 <p align="center">
-
-<a href="temp_converter.png" target="_blank"> <img alt="Demonstration" src="temp_converter.png"/></a>
-
-
+<img alt="Demonstration" src="temp_converter.png"/></a>
 </p>
 
 This project is a simple temperature converter (from celsius to fahrenheit or fahrenheit to celcius) using Ruby. The final build of the program include the function to read from one data file and write to a new, external file.
