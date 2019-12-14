@@ -12,7 +12,7 @@ This project is a simple temperature converter (from celsius to fahrenheit or fa
 
 ## 📐 Project Specifics
 
-The converter is pretty simple and essentially reads a value from one external file, converts it in the c2fio.rb program itself and then writes it externally to another file - all with onscreen prompts/notification so the user is aware of what is going on. There are four builds of the file, which do the following:
+The converter is pretty simple and essentially reads a value from one external file, converts it in the *'c2fio.rb'* program itself and then writes it externally to another file - all with onscreen prompts/notification so the user is aware of what is going on. There are four builds of the file, which do the following:
 
   - **'c2fi.rb'** - Celsius to Fahrenheit (c2f) *in*. Accepts a value from an external data file ('temp.dat') to be read, converted and printed to the user on the command line.
 
